@@ -1,0 +1,8 @@
+{
+  "name": "ICAN CosmoDrive",
+  "description": "A futuristic, space-themed file management interface for teachers to access NAS folders with integrated Gemini-powered search and assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
